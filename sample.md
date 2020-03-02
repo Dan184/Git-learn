@@ -70,3 +70,46 @@ return num1 + num2
 * [x] Tsk 1
 * [x] Tsk 2
 - [ ] tsk 3 
+
+# text 1
+## Text2
+*text* _text_
+
+~~text~~
+
+**text**
+
+__grvrv__
+
+---
+___
+
+>quote 
+
+* item
+    * item
+    * item
+
+1. item
+2. item
+
+`text` 
+
+![poop](https://a.radikal.ru/a38/1904/65/ab2494f62914.jpg)
+
+```
+some text
+```
+
+|1|2|3|
+|-|-|-|
+|one    |two    |three |
+|one    |two    |three |
+
+* [x] one
+* [x] two
+* [ ] three
+
+
+
+
